@@ -59,6 +59,11 @@
 		"on-click": "bash ~/.config/waybar/modules/power.sh",
 },
 
+"custom/menu":{
+	"format": "",
+	"onclick": "exec drun"
+
+},
     "tray": {
         "icon-size": 20
     }

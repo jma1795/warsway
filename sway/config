@@ -59,7 +59,7 @@ set $menu dmenu_path | dmenu | xargs swaymsg exec --
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
+output * bg /home/joe/Pictures/connie_crash_site__updated__by_robf4_de7cbvn-fullview.jpg fill
 #
 # Example configuration:
 #
